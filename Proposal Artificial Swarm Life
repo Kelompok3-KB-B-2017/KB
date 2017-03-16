@@ -1,0 +1,7 @@
+Judul: Bullies and Dweebs - Dweeb Twiddle
+
+Deskripsi:
+Kejar - mengejar sederhana antara bully dan dweeb, dweeb akan mencari bully terdekat dan menjauh darinya.
+Sebaliknya, bully akan mencari dweeb terdekat dan mendekatinya. Bully akan berusaha memojokkan dweeb namun
+dweeb akan dapat mengambil langkah random secara jarang (peluang 25%), tapi juga dapat membuat dweeb menjadi
+lebih dekat dengan bully. Apabila bully berhasil menyentuh dweeb maka dweeb akan hilang.
