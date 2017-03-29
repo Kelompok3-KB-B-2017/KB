@@ -1,0 +1,5 @@
+Rules dari Artificial Swarm Life
+1. Bully(Pengejar) bergerak ke arah dweeb terdekat.
+2. Dweeb(yang dikejar) normalnya bergerak menjauhi Bully terdekat.
+3. Dweeb memiliki kemungkinan 1/4 atau 25% untuk melakukan Twiddle, 
+   yaitu bergerak ke arah random, termasuk juga ke arah bully yang sedang mengejar.
